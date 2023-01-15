@@ -1,6 +1,6 @@
 # About this Project
 
-This site was made with inspiration in the project developed by @overizando to be used in the RPG paranormal order, this site was one of the first projects that I tried to make while learning HTML CSS and JavaScript, I decided to redo it because now I have more knowledge in programming.
+This site was made with inspiration from the project developed by @overizando to be used in the paranormal RPG, this site was one of the first projects I tried to make while learning HTML CSS and JavaScript, I decided to redo it because now I have more knowledge in programming, but it's not fully finished yet, because there are many things I still want to insert.
 
 This Project was used 
 `React.Js` 
