@@ -1,3 +1,17 @@
+# About this Project
+
+This site was made with inspiration in the project developed by @overizando to be used in the RPG paranormal order, this site was one of the first projects that I tried to make while learning HTML CSS and JavaScript, I decided to redo it because now I have more knowledge in programming.
+
+This Project was used 
+`React.Js` 
+`TailwindCSS`
+  and
+`Firebase`
+
+###  Project link being hosted by firebase: https://ficharpg-9a0d5.web.app/
+
+###  @overiziando project link: https://twitter.com/overizando/status/1396533006542725123
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
