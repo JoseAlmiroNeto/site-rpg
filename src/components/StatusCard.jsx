@@ -190,7 +190,7 @@ const StatusPersona = (record) => {
                 </label>
                 <img
                   className="rounded-full h-24 hover:animate-spin"
-                  src="/d20.svg"
+                  src="/d100.png"
                   alt="d20"
                   onClick={(e) => {
                     setIsModal100(true);
@@ -409,7 +409,7 @@ const StatusPersona = (record) => {
                     </div>
                     <img
                       className="h-12 hover:animate-spin"
-                      src="/d20.svg"
+                      src="/d100.png"
                       alt="d20"
                       onClick={(e) => {
                         Sanity(getStatus.Status.nex);

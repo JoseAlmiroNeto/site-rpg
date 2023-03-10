@@ -46,7 +46,7 @@ function Records() {
       <div
         className={
           bgOn
-            ? "w-full flex flex-col items-center font-Messiri justify-center relative text-white"
+            ? "bg-backgroundLogo bg-cover bg-fixed m-0 w-full flex flex-col items-center font-Messiri justify-center relative text-white"
             : "bg-black-100 w-full flex flex-col items-center font-Messiri justify-center relative text-white"
         }
       >
